@@ -1,3 +1,6 @@
 [Article that I'm interested in](https://www.computerweekly.com/feature/Coronavirus-Managing-software-development-during-lockdown)
 
 I find this article really interesting as it is shows the effect that this pandemic has had on software developers. While many assumed that software developers thrived in these conditions, as they were able to work from home on their own computers, it is actually diffucult for many who do not have the technology at home that are required or needed for their jobs. The article tells about the issues of working from home for software developers, including insufficent internet bandwidth, lack of workspace, and many others.
+
+# Danielle Jones commentary
+I found this artcile interesting especially as a software engineer who enjoys working from home. It doesn't seem like the stereotype of all software engineers being anti-social hermits holds up, as many of them miss the workplace and their commutes.
