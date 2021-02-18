@@ -4,3 +4,6 @@ I find this article really interesting as it is shows the effect that this pande
 
 # Danielle Jones commentary
 I found this artcile interesting especially as a software engineer who enjoys working from home. It doesn't seem like the stereotype of all software engineers being anti-social hermits holds up, as many of them miss the workplace and their commutes.
+
+## Rachel Lin 
+I find this article to be interesting too, especially since it is revelent to our current circumstances. While software developers are more flexible to work from home compared to other careers, I can see how thee are difficulties for those who do not have the technology to support this. 
